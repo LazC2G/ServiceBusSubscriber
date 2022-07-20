@@ -1,6 +1,6 @@
 ﻿{
   "profiles": {
-    "Subscriber": {
+    "SubscriberFanOut": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "environmentVariables": {
